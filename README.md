@@ -1,4 +1,4 @@
-<img src="The Isolated Cook! Logo.png" alt="The Isolated Cook Logo">
+<img src="The Isolated Cook Logo2.png" alt="The Isolated Cook Logo">
 
 I'll send you one email, every week, on approximately Tuesday, sometimes Wednesday, with recipes for food that I have eaten and that I like.
 
