@@ -1,4 +1,4 @@
-<img src="smaller_logo.png" alt="Logo">
+<img src="The Isolated Cook! Logo.png" alt="The Isolated Cook Logo">
 
 # the isolated cook
 
