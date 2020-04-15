@@ -1,3 +1,5 @@
+<img src="smaller_logo.png" alt="Logo">
+
 # the isolated cook
 
 I'll send you one email, every week, on approximately Tuesday, sometimes Wednesday, with recipes for food that I have eaten and that I like.
