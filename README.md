@@ -1,7 +1,5 @@
 <img src="The Isolated Cook! Logo.png" alt="The Isolated Cook Logo">
 
-# the isolated cook
-
 I'll send you one email, every week, on approximately Tuesday, sometimes Wednesday, with recipes for food that I have eaten and that I like.
 
 <!-- Begin Mailchimp Signup Form -->
