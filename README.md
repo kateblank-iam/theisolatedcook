@@ -1,6 +1,6 @@
 # the isolated cook
 
-For the Isolated and the Hungry.
+I'll send you one email, every week, on approximately Tuesday, sometimes Wednesday, with recipes for food that I have eaten and that I like.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
