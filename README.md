@@ -4,7 +4,7 @@
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
-<p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #586069; font-size: 23px"> I'll slip into your emails, every week, on approximately Tuesday, sometimes Wednesday, with recipes for food that I have eaten and that I like.</p>
+<p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #586069; font-size: 23px"> If you let me, I'll slip into your emails once a week on Tuesdays, or Wednesday if I forget what day it is, with recipes for foods that I have eaten and would eat again.</p>
 
 <form action="https://gmail.us19.list-manage.com/subscribe/post?u=bb7ef6108c3b581e90cec9e09&amp;id=53f50033ad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
