@@ -4,7 +4,10 @@
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
-<p style="margin-left: 40px; margin-top: 40px; margin-right: 60px; font-family: verdana; color: #87909a; font-size: 19px"> Let’s face it, the outside world is a scary place right now, and you’re going to have to get used to your own company (and odour) for a bit. 
+<p style="margin-left: 40px; margin-top: 40px; margin-right: 60px; font-family: verdana; color: #4b4d4e; font-size: 24px"> Let’s face it.
+</p>
+
+<p style="margin-left: 40px; margin-top: 40px; margin-right: 60px; font-family: verdana; color: #87909a; font-size: 19px"> The outside world is a scary place right now, and you’re going to have to get used to your own company (and odour) for a bit. 
 </p>
 	
 <p style="margin-left: 40px; margin-top: 40px; margin-right: 60px; font-family: verdana; color: #87909a; font-size: 19px"> If you’re like me and somewhere between #covidgoals and namaste in bed, may I suggest tying up your sweatpants and plugging in that food processor - because as far as I know, we can still eat! </p>
