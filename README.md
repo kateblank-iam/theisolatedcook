@@ -9,7 +9,7 @@
 	
 <p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #87909a; font-size: 21px"> If you’re like me and somewhere between #covidgoals and namaste in bed, may I suggest tying up your sweatpants and plugging in that food processor - because as far as I know, we can still eat! </p>
 
-<p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #353232; font-size: 16px"> If you’ll let me, I’ll slip into your emails once a week - <i> on Tuesdays, sometimes Wednesdays if I lose track of what day it is </i> - with recipes I’ve eaten, enjoyed and most likely thought <i> "was that too much salt?" </i> 
+<p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #87909a; font-size: 21px"> If you’ll let me, I’ll slip into your emails once a week - <i> on Tuesdays, sometimes Wednesdays if I lose track of what day it is </i> - with recipes I’ve eaten, enjoyed and most likely thought <i> "was that too much salt?" </i> 
 
 </p>
 
