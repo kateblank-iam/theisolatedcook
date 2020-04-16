@@ -4,9 +4,9 @@
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
-<p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #586069; font-size: 23px"> Let’s face it, the outside world is a scary place right now, and you’re going to have to get used to your own company (and odour). So let’s make more to love and eat our feelings. 
+<p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #586069; font-size: 23px"> Let’s face it, the outside world is a scary place right now, and you’re going to have to get used to your own company (and odour). So let’s make more to love and eat our feelings. </p>
 
-If you’ll let me, I’ll slip into your emails once a week - <i> on Tuesdays, sometimes Wednesdays if I lose track of what day it is </i> - with recipes I’ve eaten, enjoyed and/or thought - <i> was that too much salt? </i> </p>
+<p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #586069; font-size: 23px"> If you’ll let me, I’ll slip into your emails once a week - <i> on Tuesdays, sometimes Wednesdays if I lose track of what day it is </i> - with recipes I’ve eaten, enjoyed and/or thought - <i> was that too much salt? </i> </p>
 
 <form action="https://gmail.us19.list-manage.com/subscribe/post?u=bb7ef6108c3b581e90cec9e09&amp;id=53f50033ad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
