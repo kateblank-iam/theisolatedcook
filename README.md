@@ -1,9 +1,10 @@
+<div id="mc_embed_signup">
+
 <img src="The Isolated Cook Logo2.png" alt="The Isolated Cook Logo">
 
-I'll send you one email, every week, on approximately Tuesday, sometimes Wednesday, with recipes for food that I have eaten and that I like.
-
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<div id="mc_embed_signup">
+	
+<p>I'll send you one email, every week, on approximately Tuesday, sometimes Wednesday, with recipes for food that I have eaten and that I like.</p>
 <form action="https://gmail.us19.list-manage.com/subscribe/post?u=bb7ef6108c3b581e90cec9e09&amp;id=53f50033ad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
   <div class="mc-field-group">
