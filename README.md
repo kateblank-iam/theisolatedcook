@@ -4,10 +4,10 @@
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
-<p style="margin-left: 40px; margin-top: 40px; margin-right: 30px; font-family: verdana; color: #586069; font-size: 22px"> Let’s face it, the outside world is a scary place right now, and you’re going to have to get used to your own company (and odour) for a bit. 
+<p style="margin-left: 40px; margin-top: 40px; margin-right: 30px; font-family: verdana; color: #586069; font-size: 21px"> Let’s face it, the outside world is a scary place right now, and you’re going to have to get used to your own company (and odour) for a bit. 
 </p>
 	
-<p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #586069; font-size: 22px"> If you’re like me and somewhere between #covidgoals and namaste in bed, may I suggest tying up your sweatpants and plugging in that food processor - because as far as I know, we can still eat! </p>
+<p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #586069; font-size: 21px"> If you’re like me and somewhere between #covidgoals and namaste in bed, may I suggest tying up your sweatpants and plugging in that food processor - because as far as I know, we can still eat! </p>
 
 <p style="margin-left: 40px; margin-top: 40px; margin-right: 20px; font-family: verdana; color: #586069; font-size: 18px"> If you’ll let me, I’ll slip into your emails once a week - <i> on Tuesdays, sometimes Wednesdays if I lose track of what day it is </i> - with recipes I’ve eaten, enjoyed and most likely thought <i> "was that too much salt?" </i> 
 
