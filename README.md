@@ -19,6 +19,10 @@ If you’re like me and somewhere between #covidgoals and namaste in bed, may I 
   <div class="mc-field-group">
   <label for="mce-EMAIL">Your email  <span class="asterisk">*</span></label>
   <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+  <div style =
+  font-family: verdana;
+  font-color: #4b4d4e
+}
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -29,4 +33,5 @@ If you’re like me and somewhere between #covidgoals and namaste in bed, may I 
     </div>
 </form>
 </div>
+
 
