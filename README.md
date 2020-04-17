@@ -10,7 +10,9 @@
 </p>
 
 <p style="margin-left: 25px; font-family: verdana; color: #4b4d4e; font-size: 19px"> The outside world is a scary place right now, and you’re going to have to get used to your own company (and odour) for a bit. 
-If you’re like me and somewhere between #covidgoals and namaste in bed, may I suggest tying up your sweatpants and plugging in that food processor - because as far as I know, we can still eat! </p>
+If you’re like me and somewhere between #covidgoals and namaste in bed, may I suggest tying up your sweatpants and plugging in that food processor - because as far as I know, we can still eat! 
+
+</p>
 
 <p style="margin-left: 25px; font-family: verdana; color: #4b4d4e; font-size: 19px"> If you’ll let me, I’ll slip into your emails once a week - on Tuesdays, sometimes Wednesdays if I lose track of what day it is - with recipes I’ve eaten, enjoyed and most likely thought <i> "was that too much salt?" </i>
 	
