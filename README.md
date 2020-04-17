@@ -1,6 +1,6 @@
 <div id="mc_embed_signup">
 
-<img src="The Isolated Cook Logo2.png" alt="The Isolated Cook Logo">
+<img id="logo" src="The Isolated Cook Logo2.png" alt="The Isolated Cook Logo">
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
