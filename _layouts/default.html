@@ -12,9 +12,12 @@ body {
         display: flex;
         flex-direction: column;
         font-family: 'Verdana';
-        width: 70%;
       }
       
+    #logo { 
+      width: 100%;
+    }
+    
       #mc_embed_signup {
         width: 70%;
         font-family: "Verdana"
@@ -22,12 +25,22 @@ body {
       
       #mc-embedded-subscribe {
         background-color: rgb(41, 166, 222);
-        font-family: "Verdana"
+        font-family: "Verdana";
       }
     #mc-embedded-subscribe-form {
-        font-family: "Verdana"
-        font-color: #4b4d4e
+        font-family: "Verdana";
+        font-color: #4b4d4e;
       }
+    
+    .content {
+      width: 70%;
+    }
+    
+    @media only screen and (max-width: 600px) {
+      .content {
+        width: 100%;
+      }
+    }
     
     </style>
     </head>
