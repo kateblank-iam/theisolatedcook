@@ -16,13 +16,13 @@ If you’re like me and somewhere between #covidgoals and namaste in bed, may I 
 
 <form action="https://gmail.us19.list-manage.com/subscribe/post?u=bb7ef6108c3b581e90cec9e09&amp;id=53f50033ad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
-  <div class="mc-field-group">
-  <label for="mce-EMAIL">Your email  <span class="asterisk">*</span></label>
-  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-  <div style =
+<div style =
   font-family: verdana;
   font-color: #4b4d4e
 }
+  <div class="mc-field-group">
+  <label for="mce-EMAIL">Your email  <span class="asterisk">*</span></label>
+  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
