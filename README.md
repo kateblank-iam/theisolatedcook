@@ -4,7 +4,7 @@
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
-<p style="margin-left: 25px; font-family: verdana; color: #4b4d4e; font-size: 25px"> <b> Let’s face it. </b>
+<p style="margin-left: 25px; font-family: verdana; color: #4b4d4e; font-size: 23px"> <b> Let’s face it. </b>
 </p>
 
 <p style="margin-left: 25px; font-family: verdana; color: #4b4d4e; font-size: 19px"> The outside world is a scary place right now, and you’re going to have to get used to your own company (and odour) for a bit. 
