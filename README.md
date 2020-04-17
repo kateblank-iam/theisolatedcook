@@ -16,7 +16,7 @@ If you’re like me and somewhere between #covidgoals and namaste in bed, may I 
 
 <form action="https://gmail.us19.list-manage.com/subscribe/post?u=bb7ef6108c3b581e90cec9e09&amp;id=53f50033ad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
-<div style =
+#mc-embedded-subscribe-form {
   font-family: verdana;
   font-color: #4b4d4e
 }
