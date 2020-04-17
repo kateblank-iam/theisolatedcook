@@ -4,6 +4,7 @@
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <br>
+<br>
 <p style="margin-left: 25px; font-family: verdana; color: #4b4d4e; font-size: 23px"> <b> Let’s face it. </b>
 </p>
 <br>
